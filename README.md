@@ -46,6 +46,10 @@ python 01_function_intro.py
 | 第 14 题 | `14_tuple_operations.py` | 元组的定义、元组解包、索引访问、enumerate() 遍历、math.sqrt() 开平方 |
 | 第 15 题 | `15_set_operations.py` | 集合的定义、交集（&）、并集（\|）、差集（-）、对称差集（^） |
 | 第 16 题 | `16_class_intro.py` | 类与对象、__init__ 构造方法、self 参数、实例方法、对象创建与调用 |
+| 第 17 题 | `17_inheritance_polymorphism.py` | 继承（super() 调用父类）、方法重写、多态、is-a 关系 |
+| 第 18 题 | `18_decorator_demo.py` | 装饰器定义与使用、@ 语法糖、*args / **kwargs 接收任意参数 |
+| 第 19 题 | `19_generator_intro.py` | 生成器函数（yield）、生成器表达式、惰性求值、next() 调用、内存优化 |
+| 第 20 题 | `20_module_import.py` | import 导入整个模块、from...import 导入指定函数、as 起别名 |
 
 ## 🧪 代码示例
 
